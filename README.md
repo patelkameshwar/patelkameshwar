@@ -7,34 +7,6 @@
 ## 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patelkameshwar&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
 
----
-
-## 📈 GitHub Stats and Contributions
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patelkameshwar&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelkameshwar&layout=compact&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelkameshwar&theme=radical" height="180px"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=patelkameshwar&theme=radical&column=6&margin-w=10&margin-h=10)
-
----
-
-## 📌 Pinned Repositories
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <a href="https://github.com/patelkameshwar/kameshwar-patel-portfolio"></a>
-  <a href="https://github.com/patelkameshwar/TechieHelp.in"></a>
-</div>
-
-
-
-
-
-
 
 ---
 
@@ -97,19 +69,7 @@ I’m Kameshwar Patel, a passionate Full Stack Developer with hands-on experienc
   The app allows users to send and receive messages instantly without page reloads, supporting seamless one-on-one communication. Implemented user authentication, message storage, and dynamic updates.  
   [Project Link](https://quick-chat-opal.vercel.app/)
 
-
 ---
-
-### 📜 Certifications
-
-- **HTML Essentials** - [Cisco Network Certificate](https://www.netacad.com/certificates/?issuanceId=065bb92e-4b28-42ac-a969-15b46049939d)
-- **Network Defense** - [Cisco Network Certificate](https://www.netacad.com/certificates/?issuanceId=460a8ae7-95ea-44b5-8eee-85034104e2df)
-- **Introduction to Cybersecurity** - [Cisco Network Certificate](https://www.netacad.com/certificates/?issuanceId=332c3cc3-8b94-466c-b0a6-c8f4fa8106e6)
-
----
-
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelkameshwar&show_icons=true&locale=en&layout=compact" alt="kameshwarpatel" /></p>
 
