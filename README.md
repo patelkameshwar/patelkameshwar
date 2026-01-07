@@ -71,14 +71,7 @@ I’m Kameshwar Patel, a passionate Full Stack Developer with hands-on experienc
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelkameshwar&show_icons=true&locale=en&layout=compact" alt="kameshwarpatel" /></p>
-
-<p align="center">
-  <img src="https://github.com/patelkameshwar/patelkameshwar/raw/main/assets/animation.gif" alt="animated gif" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelkameshwar&label=Profile%20views&color=0e75b6&style=flat" alt="kameshwarpatel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kameshwarpatel" alt="kameshwarpatel" /></a> </p>
 💡 **Let's Connect and Collaborate on Open Source Projects!**
 
