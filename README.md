@@ -33,7 +33,7 @@ I’m Kameshwar Patel, a passionate Full Stack Developer with hands-on experienc
 ---
 <h1 align="center">📬 Connect with Me:</h1>
 <p align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/amit-kumar-686196225" target="blank" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/patelkameshwar" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
