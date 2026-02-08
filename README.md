@@ -11,9 +11,9 @@
 
 ## 📈 GitHub Stats and Contributions
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitkumardemo&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumardemo&layout=compact&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumardemo&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=patelkameshwar&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelkameshwar&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelkameshwar&theme=radical" height="180px"/>
 </div>
 
 ---
