@@ -42,6 +42,9 @@ I’m Kameshwar Patel, a passionate Full Stack Developer with hands-on experienc
   <a href="https://www.linkedin.com/in/patelkameshwar" target="blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
+  <a href="https://twitter.com/Kameshwarp26" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
+  </a>
 </p>
 
 
