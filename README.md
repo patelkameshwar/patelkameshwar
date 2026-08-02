@@ -21,17 +21,8 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 </div>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=patelkameshwar">
     <img src="https://komarev.com/ghpvc/?username=patelkameshwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
 </p>
-
----
-
-## 📈 GitHub Stats and Contributions
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelkameshwar&theme=radical" height="180px"/>
-</div>
 
 ---
 
