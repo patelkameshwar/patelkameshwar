@@ -31,72 +31,7 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-
-<table>
-<tr align="center">
-<td>
-<img src="https://skillicons.dev/icons?i=html" width="65"/><br>
-<b>HTML5</b>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=css" width="65"/><br>
-<b>CSS3</b>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=javascript" width="65"/><br>
-<b>JavaScript</b>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=react" width="65"/><br>
-<b>React.js</b>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=tailwind" width="65"/><br>
-<b>Tailwind CSS</b>
-</td>
-</tr>
-</table>
-
-### Backend
-
-<table>
-<tr align="center">
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>
-<b>Node.js</b>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=express" width="65"/><br>
-<b>Express.js</b>
-</td>
-</tr>
-</table>
-
-### Database
-
-<table>
-<tr align="center">
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br>
-<b>MongoDB</b>
-</td>
-
-<td>
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
-<b>MySQL</b>
-</td>
-</tr>
-</table>
-
-### Tools
+### Tools & Technologies
 
 <table>
 <tr align="center">
@@ -119,6 +54,27 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 <img src="https://skillicons.dev/icons?i=postman" width="65"/><br>
 <b>Postman</b>
 </td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=terraform" width="65"/><br>
+<b>Terraform</b>
+</td>
+
+<td>
+<img src="https://skillicons.dev/icons?i=aws" width="65"/><br>
+<b>AWS</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/stripe.png" width="65"/><br>
+<b>Payment Gateway</b>
+</td>
+
+<td>
+<img src="https://img.icons8.com/color/96/chatbot.png" width="65"/><br>
+<b>Chatbot</b>
+</td>
+
 </tr>
 </table>
 
