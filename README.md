@@ -10,9 +10,15 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 
 ---
 
-<p align="center">
-Building scalable web applications with clean code and modern technologies.
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patelkameshwar&theme=react-dark)
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=patelkameshwar&theme=radical" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=patelkameshwar&show_icons=true&theme=radical" height="170"/>
+
+</div>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=patelkameshwar">
