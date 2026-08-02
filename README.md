@@ -123,36 +123,27 @@ Percentage: **59.85%**
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:patelkameshwar01@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/patelkameshwar/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/patelkameshwar" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/Kameshwarp26" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/patelkameshwar">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/patelkameshwar/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/patelkameshwar">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/patelkameshwar" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:patelkameshwar01@gmail.com">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" height="50" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/Kameshwarp26" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/100/twitterx.png" height="50" />
 </a>
 
 </p>
