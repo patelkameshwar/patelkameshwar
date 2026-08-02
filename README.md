@@ -120,20 +120,25 @@ Percentage: **59.85%**
 
 # 📬 Connect With Me
 
-<div align="center">
-  <h3><b>Connect With Me On</b></h3>
-  </div>
+<h2 align="center">🤝 Let's Connect</h2>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/patelkameshwar/" target="_blank">
-  <img align="center" alt="kameshwar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://x.com/Kameshwarp26" target="_blank">
-  <img align="center" alt="kameshwar | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:patelkameshwar01@gmail.com" >
-  <img align="center" alt="kameshwar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="mailto:patelkameshwar01@gmail.com">
+<img src="https://img.shields.io/badge/Email-patelkameshwar01%40gmail.com-red?style=flat-square&logo=gmail"/>
 </a>
-<p>
+
+<a href="https://www.linkedin.com/in/patelkameshwar">
+<img src="https://img.shields.io/badge/LinkedIn-Kameshwar%20Patel-blue?style=flat-square&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/patelkameshwar">
+<img src="https://img.shields.io/badge/GitHub-patelkameshwar-black?style=flat-square&logo=github"/>
+</a>
+
+<a href="https://x.com/Kameshwarp26">
+<img src="https://img.shields.io/badge/X-@Kameshwarp26-black?style=flat-square&logo=x"/>
+</a>
+</p>
 
 <p align="center">
 
