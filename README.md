@@ -118,25 +118,20 @@ Percentage: **59.85%**
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
-
+<div align="center">
+  <h3><b>Connect With Me On</b></h3>
+  </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/patelkameshwar" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="45" height="45"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/patelkameshwar" target="_blank">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="45" height="45"/>
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:patelkameshwar01@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="45" height="45"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/patelkameshwar/" target="_blank">
+  <img align="center" alt="patelkameshwar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://x.com/Kameshwarp26" target="_blank">
+  <img align="center" alt="patelkameshwar | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:patelkameshwar01@gmail.com" >
+  <img align="center" alt="BhumiWadhwani | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
+<p>
 
 ---
 
