@@ -120,6 +120,21 @@ Percentage: **59.85%**
 
 # 📬 Connect With Me
 
+<div align="center">
+  <h3><b>Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/patelkameshwar/" target="_blank">
+  <img align="center" alt="kameshwar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://x.com/Kameshwarp26" target="_blank">
+  <img align="center" alt="kameshwar | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:patelkameshwar01@gmail.com" >
+  <img align="center" alt="kameshwar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
+<p>
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/patelkameshwar">
