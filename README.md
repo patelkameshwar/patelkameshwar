@@ -20,10 +20,6 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 
 </div>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=patelkameshwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🛠 Tech Stack
