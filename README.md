@@ -4,6 +4,24 @@
 
 ---
 
+<h3 align="center">
+Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
+</h3>
+
+---
+
+<p align="center">
+Building scalable web applications with clean code and modern technologies.
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=patelkameshwar">
+    <img src="https://komarev.com/ghpvc/?username=patelkameshwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patelkameshwar&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
 
