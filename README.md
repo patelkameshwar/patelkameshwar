@@ -4,6 +4,12 @@
 Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 </h3>
 
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelkameshwar&theme=github-dark"/>
+</p>
+
 <p align="center">
 Passionate about building responsive, scalable, and user-centric web applications.
 </p>
