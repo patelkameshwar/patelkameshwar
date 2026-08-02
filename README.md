@@ -71,32 +71,6 @@ Passionate about building responsive, scalable, and user-centric web application
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=patelkameshwar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=patelkameshwar&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelkameshwar&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelkameshwar&theme=github-dark"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ## 🩺 Meet-Doc — Online Doctor Appointment System
