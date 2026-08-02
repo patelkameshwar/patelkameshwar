@@ -14,7 +14,8 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=patelkameshwar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=patelkameshwar&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
