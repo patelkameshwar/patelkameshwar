@@ -31,52 +31,90 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 
 ---
 
-### Tools & Technologies
+## 🛠️ Tech Stack
 
-<table>
-<tr align="center">
-<td>
-<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
-<b>Git</b>
-</td>
+### 🎨 Frontend
 
-<td>
-<img src="https://skillicons.dev/icons?i=github" width="65"/><br>
-<b>GitHub</b>
-</td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-<td>
-<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>
-<b>VS Code</b>
-</td>
+<p align="center">
+  <b>HTML5</b> •
+  <b>CSS3</b> •
+  <b>JavaScript</b> •
+  <b>React.js</b> •
+  <b>Tailwind CSS</b>
+</p>
 
-<td>
-<img src="https://skillicons.dev/icons?i=postman" width="65"/><br>
-<b>Postman</b>
-</td>
+---
 
-<td>
-<img src="https://skillicons.dev/icons?i=terraform" width="65"/><br>
-<b>Terraform</b>
-</td>
+### ⚙️ Backend
 
-<td>
-<img src="https://skillicons.dev/icons?i=aws" width="65"/><br>
-<b>AWS</b>
-</td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<td>
-<img src="https://img.icons8.com/color/96/stripe.png" width="65"/><br>
-<b>Payment Gateway</b>
-</td>
+<p align="center">
+  <b>Node.js</b> •
+  <b>Express.js</b>
+</p>
 
-<td>
-<img src="https://img.icons8.com/color/96/chatbot.png" width="65"/><br>
-<b>Chatbot</b>
-</td>
+---
 
-</tr>
-</table>
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<p align="center">
+  <b>MongoDB</b> •
+  <b>MySQL</b>
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform" />
+</p>
+
+<p align="center">
+  <b>AWS</b> •
+  <b>Terraform</b>
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<p align="center">
+  <b>Git</b> •
+  <b>GitHub</b> •
+  <b>VS Code</b> •
+  <b>Postman</b>
+</p>
+
+---
+
+### 🔗 Integrations
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/stripe.png" width="55"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/chatbot.png" width="55"/>
+</p>
+
+<p align="center">
+  <b>Payment Gateway Integration</b> •
+  <b>AI Chatbot Integration</b>
+</p>
 
 # 🛠 Tech Stack
 
