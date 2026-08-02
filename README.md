@@ -118,30 +118,24 @@ Percentage: **59.85%**
 
 ---
 
-# 📬 Connect With Me
-
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/patelkameshwar">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/patelkameshwar/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
+  &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/patelkameshwar">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  </a>
 
-<a href="https://github.com/patelkameshwar" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
+  &nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:patelkameshwar01@gmail.com">
-  <img src="https://img.icons8.com/color/96/gmail-new.png" height="50" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
+  <a href="mailto:patelkameshwar01@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45"/>
+  </a>
 </p>
 
 ---
