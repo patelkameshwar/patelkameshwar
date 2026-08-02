@@ -142,10 +142,6 @@ Percentage: **59.85%**
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://x.com/Kameshwarp26" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/100/twitterx.png" height="50" />
-</a>
-
 </p>
 
 ---
