@@ -123,29 +123,25 @@ Percentage: **59.85%**
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
+  <a href="mailto:patelkameshwar01@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/patelkameshwar/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" width="45"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/>
   </a>
-  
   &nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:patelkameshwar01@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail" height="45" width="45"/>
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://x.com/Kameshwarp26" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/100/twitterx.png" alt="X" height="45" width="45"/>
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
+
   <a href="https://github.com/patelkameshwar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="45" width="45"/>
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/Kameshwarp26" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="40" height="40"/>
   </a>
 </p>
-
 
 <p align="center">
 
