@@ -19,6 +19,23 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 
 </p>
 
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=patelkameshwar&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/patelkameshwar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patelkameshwar&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelkameshwar&layout=compact&theme=algolia" alt="Top Languages" />
+  </a>
+</p>
+
 ---
 
 # 👨‍💻 About Me
