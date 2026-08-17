@@ -16,6 +16,10 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelkameshwar&theme=algolia" height="180px"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelkameshwar&theme=algolia&timezone=Asia/Kolkata" height="180px"/>
+</div>
+
 ---
 
 # 👨‍💻 About Me
