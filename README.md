@@ -7,7 +7,7 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelkameshwar&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelkameshwar&theme=github-dark&count_private=true"/>
 </p>
 
 # 📊 GitHub Statistics
