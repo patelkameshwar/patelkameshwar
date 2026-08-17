@@ -12,12 +12,10 @@ Full Stack Web Developer | React.js • Node.js • Express.js • MongoDB
 
 # 📊 GitHub Statistics
 
-<p align="center">
-
-
-<img width="48%" src="https://streak-stats.demolab.com?user=patelkameshwar&theme=github-dark-blue&hide_border=true"/>
-
-</p>
+## <picture><img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" height="25px"/> </picture> GitHub Stats and Contributions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelkameshwar&theme=algolia" height="180px"/>
+</div>
 
 ---
 
